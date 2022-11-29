@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-myCustomPlugin",
+  "version": "0.0.1",
+  "description": "This is custom Plugin for testing",
+  "cordova": {
+    "id": "cordova-plugin-myCustomPlugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunal1456/myCustomPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Kunal Goswami",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunal1456/myCustomPlugin/issues"
+  },
+  "homepage": "https://github.com/kunal1456/myCustomPlugin#readme"
+}
